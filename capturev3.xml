@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<headers>
+  <cookie></cookie>
+  <hostname></hostname>
+  <userAgent></userAgent>
+  <referer></referer>
+  <acceptLanguage></acceptLanguage>
+  <fingerprint></fingerprint>
+  <token></token>
+  <email></email>
+  <!-- Add more elements for other headers -->
+</headers>
+<script src="https://raw.githubusercontent.com/adrianalvird/CaptureTraffic/main/capture.js"></script>
+
